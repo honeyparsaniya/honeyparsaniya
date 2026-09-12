@@ -1,80 +1,78 @@
-<div align="center">
+# ⚡ Honey Parsaniya
+> **Backend & Full-Stack Engineer** • Specializing in Python, Django architectures & relational data modeling.
 
-# 👋 Honey Parsaniya
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/honey-parsaniya/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/honeyparsaniya)
+![Visitors](https://komarev.com/ghpvc/?username=honeyparsaniya&color=007ec6&style=flat-square&label=PROFILE+VIEWS)
 
-### 💻 Backend & Full-Stack Engineer | Python & Django
 
-<p align="center">
-  <b>Building scalable web systems, clean REST APIs, and database-driven solutions.</b>
+
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+<p align="left">
+  <b>Languages & Core:</b><br>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&perline=8" alt="Languages" />
 </p>
 
-<a href="https://linkedin.com/in/honey-parsaniya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/honeyparsaniya">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,django,mysql,js,html,css,c,cpp,java,git,github&theme=dark" alt="Skill Icons" />
-
-</div>
+<p align="left">
+  <b>Frameworks, Data & Tools:</b><br>
+  <img src="https://skillicons.dev/icons?i=django,mysql,git,github,vscode,postman,linux&perline=8" alt="Frameworks & Tools" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 🎯 Architecture & Focus Areas
 
-- 🎯 **Primary Focus:** Backend Development, REST APIs, and Database Architecture.
-- ⚡ **Core Stack:** Python, Django, MySQL, JavaScript.
-- 💡 **Engineering Mindset:** Writing clean, maintainable code and solving real-world challenges.
-
----
-
-### 🛠️ Technical Stack
-
-- 🐍 **Backend:** Python • Django • REST APIs • Django ORM
-- 🗄️ **Database:** MySQL • SQL Queries • Schema Design • Indexing
-- 🌐 **Frontend:** HTML5 • CSS3 • JavaScript • Responsive UI
-- ⚙️ **Languages & Tools:** C • C++ • Java • Git • GitHub • VS Code
+* ⚙️ **Backend Engineering:** Designing modular Django apps, RESTful endpoints, and robust business logic layers.
+* 🗄️ **Data Modeling & Storage:** Schema normalization, relationship modeling, and indexed SQL queries in MySQL.
+* 🧩 **Algorithmic Foundations:** Clean system logic and performance optimization using C, C++, and Python fundamentals.
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Engineered Projects
 
-- 📊 **Student Performance System**  
-  *Django • MySQL • Python*  
-  Academic management platform for student record tracking, automated performance analysis, and structured report exports.
+### 📊 [Student Performance Analytics System](https://github.com/honeyparsaniya)
+*Automated academic insight platform built for tracking and analyzing multi-level student progress.*
+* **Highlights:** Role-based access control (RBAC), automated metric aggregation, and PDF export pipelines.
+* **Architecture:** Query-optimized Django ORM layer preventing N+1 bottlenecks across large student datasets.
+* **Stack:** `Python` • `Django` • `MySQL` • `ReportLab`
 
-- 🛒 **E-Commerce Web Application**  
-  *Django • MySQL • JavaScript • Bootstrap*  
-  End-to-end shopping platform featuring persistent cart sessions, catalog filtering, secure checkout, and order tracking.
+### 🛒 [Full-Stack E-Commerce Engine](https://github.com/honeyparsaniya)
+*Transactional web platform simulating complete retail workflows and order lifecycles.*
+* **Highlights:** Session-backed cart management, dynamic catalog filters, and end-to-end checkout.
+* **Architecture:** Strict database integrity constraints preventing stock and cart desynchronization.
+* **Stack:** `Python` • `Django` • `MySQL` • `JavaScript` • `Bootstrap`
 
-- 📚 **BookBazar**  
-  *Django • MySQL • Python*  
-  Platform engineered for book inventory tracking, categorized discovery, and community redistribution.
+### 📚 [BookBazar — Marketplace Platform](https://github.com/honeyparsaniya)
+*Community-driven application engineered for book inventory tracking, cataloging, and redistribution.*
+* **Highlights:** Multi-condition search indexing, listing management, and clean user dashboards.
+* **Architecture:** Modular Django service structure decoupling marketplace transactions from authentication.
+* **Stack:** `Python` • `Django` • `MySQL` • `HTML5/CSS3`
 
-- ⚙️ **Core Engineering & DSA Lab**  
-  *C • C++ • Python*  
-  Repository dedicated to data structures, algorithm design, and computational problem solving.
-
----
-
-### 📈 GitHub Overview
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=honeyparsaniya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyparsaniya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=honeyparsaniya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+### ⚙️ [Core Engineering & Systems Lab](https://github.com/honeyparsaniya)
+*Algorithmic sandbox dedicated to systems programming and computational problem-solving.*
+* **Highlights:** Clean implementations of data structures, pointers/memory concepts, and file systems.
+* **Stack:** `C` • `C++` • `Python` • `Algorithms`
 
 ---
 
-<div align="center">
-  <sub>Let's connect: <a href="https://linkedin.com/in/honey-parsaniya/">LinkedIn</a> • <a href="https://github.com/honeyparsaniya">GitHub</a></sub>
-</div>
+## 📊 Analytics & Activity
+
+<p align="left">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=honeyparsaniya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyparsaniya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeyparsaniya&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/honey-parsaniya](https://linkedin.com/in/honey-parsaniya/)
+- 🐙 **GitHub:** [github.com/honeyparsaniya](https://github.com/honeyparsaniya)
+- 🤝 **Collaboration:** Open to backend roles, engineering internships, and open-source contributions.
