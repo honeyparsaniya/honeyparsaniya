@@ -1,51 +1,47 @@
 # 👋 Hi, I'm Honey Parsaniya
 
-### Python & Django Developer
+### 💻 Python & Django Developer
 
-Information Technology student focused on **Python, Django, SQL and backend development**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=600&lines=Python+Developer;Django+Developer;Backend+Enthusiast;Building+Real+World+Projects;Always+Learning+Something+New" />
 
-I enjoy building practical web applications and learning by working on real projects.
+I'm an **Information Technology student** focused on Python, Django, SQL and backend development.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/honeyparsaniya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/honey-parsaniya/)
+I enjoy building practical web applications and learning through real-world projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/honeyparsaniya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/honey-parsaniya/)
+
+<img src="https://komarev.com/ghpvc/?username=honeyparsaniya&label=Profile%20Views&color=36BCF7&style=flat-square" />
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 Information Technology Student
-- 🐍 Focused on Python & Django
-- 🗄️ Working with SQL & MySQL
-- 🌐 Interested in Backend Development
-- 🚀 Building real-world projects
+- 🐍 Python & Django Developer
+- 🗄️ SQL & MySQL
+- 🌐 Backend Development
+- 🚀 Building practical web applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 
-**Web Development**
+### Web Development
 
-![Django](https://skillicons.dev/icons?i=django)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<img src="https://skillicons.dev/icons?i=django,html,css" />
 
-**Database & Tools**
+### Database & Tools
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+<img src="https://skillicons.dev/icons?i=mysql,git,github" />
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📊 Student Performance System
 
@@ -53,17 +49,17 @@ Django-based system for managing student records and analyzing academic performa
 
 **Features:** Student Management • Marks • Performance Analysis • Leaderboard • Smart Insights • PDF Reports
 
-**Tech:** Python  Django MySQL
+**Tech:** `Python` `Django` `MySQL`
 
 ---
 
 ### 🛒 E-Commerce Website
 
-Full-stack e-commerce application with product, cart, wishlist and user functionality.
+Full-stack e-commerce application with products, cart, wishlist and user functionality.
 
 **Features:** Products • Cart • Wishlist • Authentication • Checkout • Orders
 
-**Tech:** Python Django MySQL JavaScript
+**Tech:** `Python` `Django` `MySQL` `JavaScript`
 
 ---
 
@@ -73,24 +69,32 @@ Django-based book management and online shopping application.
 
 **Features:** Book Management • Product Listing • User Features • Shopping
 
-**Tech:** Python Django MySQL
+**Tech:** `Python` `Django` `MySQL`
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Honey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=honeyparsaniya&show_icons=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=honeyparsaniya&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honeyparsaniya&layout=compact&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyparsaniya&layout=compact&hide_border=true" />
+
+---
+
+## 🔥 GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=honeyparsaniya&hide_border=true" />
 
 ---
 
 ## 📫 Connect With Me
 
-**GitHub:** [github.com/honeyparsaniya](https://github.com/honeyparsaniya)
+**GitHub:**  
+https://github.com/honeyparsaniya
 
-**LinkedIn:** [linkedin.com/in/honey-parsaniya](https://www.linkedin.com/in/honey-parsaniya/)
+**LinkedIn:**  
+https://www.linkedin.com/in/honey-parsaniya/
 
 ---
 
-**Code. Learn. Build. Repeat.**
+### `Code. Learn. Build. Repeat.`
