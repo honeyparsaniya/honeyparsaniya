@@ -1,78 +1,396 @@
-# ⚡ Honey Parsaniya
-> **Backend & Full-Stack Engineer** • Specializing in Python, Django architectures & relational data modeling.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/honey-parsaniya/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/honeyparsaniya)
-![Visitors](https://komarev.com/ghpvc/?username=honeyparsaniya&color=007ec6&style=flat-square&label=PROFILE+VIEWS)
+# 👋 Hey, I'm Honey Parsaniya
 
+### 💻 Python & Django Developer
 
-
----
-
-## 🛠️ Tech Stack & Capabilities
-
-<p align="left">
-  <b>Languages & Core:</b><br>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css&perline=8" alt="Languages" />
+<p>
+  <b>Build. Break. Learn. Improve.</b>
 </p>
 
-<p align="left">
-  <b>Frameworks, Data & Tools:</b><br>
-  <img src="https://skillicons.dev/icons?i=django,mysql,git,github,vscode,postman,linux&perline=8" alt="Frameworks & Tools" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&center=true&vCenter=true&width=650&lines=Python+Developer;Django+Developer;Backend+Enthusiast;Building+Real+World+Projects;Learning+Something+New+Every+Day" />
+
+<br><br>
+
+<a href="https://github.com/honeyparsaniya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/honey-parsaniya/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=honeyparsaniya&label=PROFILE+VIEWS&style=flat-square">
+
+</div>
 
 ---
 
-## 🎯 Architecture & Focus Areas
+## 👨‍💻 About Me
 
-* ⚙️ **Backend Engineering:** Designing modular Django apps, RESTful endpoints, and robust business logic layers.
-* 🗄️ **Data Modeling & Storage:** Schema normalization, relationship modeling, and indexed SQL queries in MySQL.
-* 🧩 **Algorithmic Foundations:** Clean system logic and performance optimization using C, C++, and Python fundamentals.
+```python
+class HoneyParsaniya:
 
----
+    role = "Python & Django Developer"
+    field = "Information Technology"
 
-## 🚀 Engineered Projects
+    currently = [
+        "Building Django Applications",
+        "Learning Backend Development",
+        "Working with MySQL",
+        "Improving Problem Solving"
+    ]
 
-### 📊 [Student Performance Analytics System](https://github.com/honeyparsaniya)
-*Automated academic insight platform built for tracking and analyzing multi-level student progress.*
-* **Highlights:** Role-based access control (RBAC), automated metric aggregation, and PDF export pipelines.
-* **Architecture:** Query-optimized Django ORM layer preventing N+1 bottlenecks across large student datasets.
-* **Stack:** `Python` • `Django` • `MySQL` • `ReportLab`
+    interests = [
+        "Backend Development",
+        "Web Applications",
+        "Databases",
+        "Real World Projects"
+    ]
 
-### 🛒 [Full-Stack E-Commerce Engine](https://github.com/honeyparsaniya)
-*Transactional web platform simulating complete retail workflows and order lifecycles.*
-* **Highlights:** Session-backed cart management, dynamic catalog filters, and end-to-end checkout.
-* **Architecture:** Strict database integrity constraints preventing stock and cart desynchronization.
-* **Stack:** `Python` • `Django` • `MySQL` • `JavaScript` • `Bootstrap`
+    mindset = "Learn → Build → Improve"
+```
 
-### 📚 [BookBazar — Marketplace Platform](https://github.com/honeyparsaniya)
-*Community-driven application engineered for book inventory tracking, cataloging, and redistribution.*
-* **Highlights:** Multi-condition search indexing, listing management, and clean user dashboards.
-* **Architecture:** Modular Django service structure decoupling marketplace transactions from authentication.
-* **Stack:** `Python` • `Django` • `MySQL` • `HTML5/CSS3`
+I'm an **Information Technology student** interested in backend development and building practical web applications.
 
-### ⚙️ [Core Engineering & Systems Lab](https://github.com/honeyparsaniya)
-*Algorithmic sandbox dedicated to systems programming and computational problem-solving.*
-* **Highlights:** Clean implementations of data structures, pointers/memory concepts, and file systems.
-* **Stack:** `C` • `C++` • `Python` • `Algorithms`
+I enjoy working with **Python, Django and MySQL**, and I believe the best way to learn development is by actually building things.
 
 ---
 
-## 📊 Analytics & Activity
+# 🛠️ Tech Stack
 
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=honeyparsaniya&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyparsaniya&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeyparsaniya&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=django,html,css" />
+
+<br><br>
+
+### 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github" />
+
+</div>
 
 ---
 
-## 📬 Let's Connect
+# ⚡ What I Work With
 
-- 💼 **LinkedIn:** [linkedin.com/in/honey-parsaniya](https://linkedin.com/in/honey-parsaniya/)
-- 🐙 **GitHub:** [github.com/honeyparsaniya](https://github.com/honeyparsaniya)
-- 🤝 **Collaboration:** Open to backend roles, engineering internships, and open-source contributions.
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐍 Backend
+
+```text
+Python
+Django
+SQL
+MySQL
+REST APIs
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Web
+
+```text
+HTML
+CSS
+JavaScript
+Django Templates
+Responsive UI
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗄️ Database
+
+```text
+MySQL
+SQL Queries
+CRUD Operations
+Database Design
+Relationships
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Development
+
+```text
+Git
+GitHub
+Debugging
+Problem Solving
+Project Development
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Student Performance System
+
+A Django-based academic management system designed to manage student records and analyze academic performance.
+
+### Features
+
+- Student Management
+- Marks Management
+- Performance Analysis
+- Leaderboard
+- Smart Insights
+- PDF Reports
+
+**Tech Stack**
+
+`Python` `Django` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 E-Commerce Website
+
+A complete e-commerce web application with product, shopping and user functionality.
+
+### Features
+
+- Product Management
+- Shopping Cart
+- Wishlist
+- User Authentication
+- Checkout
+- Order Management
+
+**Tech Stack**
+
+`Python` `Django` `MySQL` `JavaScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📚 BookBazar
+
+A Django-based book management and online shopping application.
+
+### Features
+
+- Book Management
+- Product Listing
+- User Features
+- Shopping Functionality
+- Database Management
+
+**Tech Stack**
+
+`Python` `Django` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚙️ Development Lab
+
+```text
+╔══════════════════════════════════╗
+║        CURRENTLY BUILDING        ║
+╠══════════════════════════════════╣
+║                                  ║
+║  Python       ████████████░░     ║
+║  Django       ███████████░░░     ║
+║  SQL          ██████████░░░░     ║
+║  Backend      ██████████░░░░     ║
+║                                  ║
+║  Status: ACTIVE                  ║
+║                                  ║
+╚══════════════════════════════════╝
+```
+
+**Learning by building real projects.**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| | Focus |
+|---|---|
+| 🐍 | Python Development |
+| 🌐 | Django Applications |
+| 🗄️ | SQL & MySQL |
+| 🔌 | Backend & REST APIs |
+| 🧠 | Problem Solving |
+| 🚀 | Real-World Projects |
+
+</div>
+
+---
+
+# 🧠 How I Build
+
+<div align="center">
+
+```text
+        💡 IDEA
+          │
+          ▼
+       📝 PLAN
+          │
+          ▼
+       💻 CODE
+          │
+          ▼
+       🐛 DEBUG
+          │
+          ▼
+       🧪 TEST
+          │
+          ▼
+       🚀 BUILD
+          │
+          ▼
+       📈 IMPROVE
+          │
+          └──────────────► 🔁
+```
+
+</div>
+
+---
+
+# 🧰 Developer Toolbox
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│              DEVELOPER TOOLBOX               │
+├──────────────────────────────────────────────┤
+│                                              │
+│  Backend       → Python • Django             │
+│  Database      → MySQL • SQL                 │
+│  Frontend      → HTML • CSS • JavaScript     │
+│  Languages     → Python • Java • C • C++     │
+│  Tools         → Git • GitHub                │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=honeyparsaniya&show_icons=true&hide_border=true&count_private=true&rank_icon=github">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeyparsaniya&layout=compact&hide_border=true">
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=honeyparsaniya&hide_border=true">
+
+</div>
+
+---
+
+# 🌱 My Developer Journey
+
+<div align="center">
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+BUILD BETTER
+```
+
+### "Every project is another step forward."
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/honeyparsaniya">
+<img src="https://img.shields.io/badge/GitHub-View%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/honey-parsaniya/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+### `Code. Learn. Build. Repeat.`
+
+<br>
+
+Thanks for visiting my profile!
+
+</div>
